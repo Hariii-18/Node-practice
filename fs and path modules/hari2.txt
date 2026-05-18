@@ -1,1 +1,1 @@
-IGNORE ME ,hey this is another text using arrow function to print something on the terminal
+IGNORE ME ,hey this is another text using arrow function to print something on the terminal Heyy this text appended using apppendFile method
