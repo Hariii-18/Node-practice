@@ -22,8 +22,3 @@ fs.appendFile("./fs and path modules/hari2.txt","this text appended using apppen
 })
 
 
-let fss = require('fs/promises')
-
-let a = await fss.readFile("hari.txt")
-let b = await fss.writeFile("hari.txt","this is a promises method")
-console.log(a.toString(),b)

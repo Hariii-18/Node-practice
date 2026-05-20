@@ -1,1 +1,0 @@
-IGNORE ME ,hey this is another text using arrow function to print something on the terminal
